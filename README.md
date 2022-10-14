@@ -15,7 +15,7 @@ J'ai beaucoup apprécié la NSI, j'ai appris a programmer, c'est donc pour ça q
 ✅ CSS
 
 ## Résidence + Trajet:
-L'Isle Adam: Train (20 mins) + Trajet à pieds (40 mins)
+L'Isle Adam: Train 🚄 (20 mins) + Trajet à pieds 🦶 (40 mins)
 
 ## Type d'étudiant:
 • J'ai un manque d'attention.
