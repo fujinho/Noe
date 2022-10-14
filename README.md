@@ -1,6 +1,6 @@
 # Bonjour !
 ## Qui suis-je ❓
-###Je m'appelle Noé Saintobert et j'ai 18 ans. Je suis passionné par l'informatique et j'ai la chance d'être actuellement en BTS SIO (Services informatiques aux organisations) option  SLAM (solutions logicielles et applications métiers).
+Je m'appelle Noé Saintobert et j'ai 18 ans. Je suis passionné par l'informatique et j'ai la chance d'être actuellement en BTS SIO (Services informatiques aux organisations) option  SLAM (solutions logicielles et applications métiers).
 
 Pour le bac, j'ai pris les options:
 - Physique 📕
