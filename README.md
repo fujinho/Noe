@@ -9,10 +9,11 @@ Pour le bac, j'ai pris les options:
 J'ai beaucoup apprécié la NSI, j'ai appris a programmer, c'est donc pour ça que je poursuis mes études en informatique.
 
 ## Les langages que j'ai étudié:
-✅ Python  
+✅ Python 
 ✅ SQL
 ✅ HTML
 ✅ CSS
+ 
 
 ## Résidence + Trajet:
 L'Isle Adam: Train 🚄 (20 mins) + Trajet à pieds 🦶 (40 mins)
