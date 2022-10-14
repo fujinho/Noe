@@ -8,10 +8,10 @@
 J'ai beaucoup apprécié la NSI, j'ai appris a programmer, c'est donc pour ça que je poursuis mes études en informatique.
 
 # Les langages que j'ai étudié:
-[x] Python 🐍
-[x] SQL
-[X] HTML
-[x] CSS 
+<ul><li>[x] Python 🐍 </li><ul>
+<ul><li>[x] SQL </li><ul>
+<ul><li>[X] HTML </li><ul>
+<ul><li>[x] CSS </li><ul>
 
 # Mes passions:
 ## Les jeux vidéos:
